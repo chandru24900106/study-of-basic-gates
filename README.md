@@ -1,3 +1,6 @@
+###name : chandru v
+###reg no :212224230043
+#EXP 1
 ### study-of-basic-gates
 
 **AIM:** 
@@ -63,17 +66,19 @@ Y= A⊕B
 
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/bdfcafdc-abf2-4029-b6e6-15d95a3367df)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+![WhatsApp Image 2025-03-19 at 08 42 10_3d089f90](https://github.com/user-attachments/assets/f8c65d2a-74ff-4fb6-abfd-7ef65061f4cf)
+![WhatsApp Image 2025-03-19 at 08 42 11_cbc1d24c](https://github.com/user-attachments/assets/1ff3a1b2-f5b4-4c5d-b9b7-78184f6c36ac)
+
 
 **RTL realization Output:** 
+![image](https://github.com/user-attachments/assets/e602e4d9-8f76-453e-a0f2-a351fa7277e5)
 
 **RTL**
+![image](https://github.com/user-attachments/assets/dcb1855e-56d5-458d-ad93-f3c547125496)
 
 **Result:**
-
+the truth table of logic gates in Quartus II is verified using Verilog programming.
 
