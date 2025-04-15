@@ -1,6 +1,6 @@
-###name : chandru v
-###reg no :212224230043
-#EXP 1
+### Name : chandru v
+### reg no :212224230043
+### EXP 1
 ### study-of-basic-gates
 
 **AIM:** 
